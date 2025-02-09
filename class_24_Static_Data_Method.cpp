@@ -19,7 +19,7 @@ class employee{
 };
 
 
-int employee::count; // Default value is 0.
+int employee::count;  // Default value is 0.
 
 int main(){
     employee ajay,rohan,dev;
